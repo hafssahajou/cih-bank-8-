@@ -25,7 +25,7 @@
     <body>
         <section class="flex items-center relative">
             <!-- =========== Aside bar =========== -->
-            <aside class="bg-black h-[100vh] w-[320px] p-5 relative">
+            <aside class="bg-black h-[100vh] w-[300px] p-5 relative">
                 <!-- ===== logo ===== -->
                 <div>
                     <img
